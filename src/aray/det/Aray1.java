@@ -9,7 +9,7 @@ public class Aray1 {
 
 		int c = b*(b+1)/2;
 		 
-		// System.out.println(c);	
+		 System.out.println("hai git hub");	
 		 
 	
 			 int a[]={25,22,2,4,1,18,33,45,32,45,7667,23,88,8,44,6,11,34};
